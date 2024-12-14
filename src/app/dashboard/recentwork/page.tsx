@@ -1,6 +1,4 @@
-import ResentWork from "@/app/components/rw"
-
-ResentWork
+import ResentWork from "@/app/components/rw";
 
 export default function Resentwork () {
     return(

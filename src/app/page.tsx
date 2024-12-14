@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <main className="max-w-7xl mx-12 ">
     <Hero />
+    <h1 className="text-white">hello</h1>
     
 
     </main>
